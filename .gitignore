@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/OhCheat/v15
+/OhCheat/OhCheat/obj
+/OhCheat/OhCheat.Android/obj
+/OhCheat/OhCheat.UWP/obj

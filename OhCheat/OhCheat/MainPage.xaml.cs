@@ -14,7 +14,8 @@ namespace OhCheat
             InitializeComponent();
             //UMA ALTERAÇÃO CABULOSA
             //OUTRA ALTERAÇÃO CABULOSA
-            //Altração Senninha
+            //Alteração Senninha
+
         }
     }
 }
